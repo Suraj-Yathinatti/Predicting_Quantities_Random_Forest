@@ -3,9 +3,9 @@ Predicting Quantities with Random Forest Regression for the dateset "Google Stor
 
 
 **About the Dataset**
-    - We will download the dataset [here](https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data)
-    - This dataset contains Google Store Ecommerce data from Jan 01, 2017 to Dec 31, 2017.
-    - This dataset contains following csv files and are as follows:
+    We will download the dataset [here](https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data).
+    This dataset contains Google Store Ecommerce data from Jan 01, 2017 to Dec 31, 2017.
+    This dataset contains following csv files and are as follows:
       - Key_SKU.csv
       - Marketing_Spend.csv
       - Online.csv
