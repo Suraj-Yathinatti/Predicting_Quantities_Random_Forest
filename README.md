@@ -1,4 +1,4 @@
-# Predicting_Quantities_Random_Forest
+# Predicting Quantities using Random Forest - Python
 Predicting Quantities with Random Forest Regression for the dateset "Google Store Ecommerce Data + Fake Retail Data"
 
 
