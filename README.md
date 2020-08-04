@@ -4,7 +4,7 @@ Predicting Quantities with Random Forest Regression for the dateset "Google Stor
 
 **About the Dataset**
 
-    - We will download the dataset [here.](#https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data)
+    - We will download the dataset [here](https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data)
     - This dataset contains Google Store Ecommerce data from Jan 01, 2017 to Dec 31, 2017.
     - This dataset contains following csv files and are as follows:
       - Key_SKU.csv
@@ -16,11 +16,11 @@ We will try to forecast a time series data by running regression models with Pyt
 
 Models we will use are as follows: 
 
-- **Linear Regression**
-- **Lasso**
-- **Decision Tree Regressor**
-- **Random Forest Regressor**
-- **K-Neighbors Regressor**
+- [x] **Linear Regression**
+- [x] **Lasso**
+- [x] **Decision Tree Regressor**
+- [x] **Random Forest Regressor**
+- [x] **K-Neighbors Regressor**
       
 
 **Other Details:**
