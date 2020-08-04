@@ -3,7 +3,6 @@ Predicting Quantities with Random Forest Regression for the dateset "Google Stor
 
 
 **About the Dataset**
-
     - We will download the dataset [here](https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data)
     - This dataset contains Google Store Ecommerce data from Jan 01, 2017 to Dec 31, 2017.
     - This dataset contains following csv files and are as follows:
@@ -33,7 +32,7 @@ Models we will use are as follows:
        - Matplotlib: 3.2.2
        - Plotly: 4.8.2
        - Seaborn: 0.10.1
-       - Statsmodels: 0.11.1
+       - Sklearn 0.0
        
 
 **References**
