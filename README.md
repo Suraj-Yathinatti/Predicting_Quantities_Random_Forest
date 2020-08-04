@@ -3,9 +3,9 @@ Predicting Quantities with Random Forest Regression for the dateset "Google Stor
 
 
 **About the Dataset**
-    We will download the dataset [here](https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data).
-    This dataset contains Google Store Ecommerce data from Jan 01, 2017 to Dec 31, 2017.
-    This dataset contains following csv files and are as follows:
+    - We will download the dataset [here.](https://www.kaggle.com/jpallard/google-store-ecommerce-data-fake-retail-data).
+    - This dataset contains Google Store Ecommerce data from Jan 01, 2017 to Dec 31, 2017.
+    - This dataset contains following csv files and are as follows:
       - Key_SKU.csv
       - Marketing_Spend.csv
       - Online.csv
@@ -42,6 +42,8 @@ Models we will use are as follows:
 
 **Note:** 
   - Do not forget they are just quick and basic predictions so we can improve these models with tuning and according to availability of the dataset and business    requirements.
-  - During next update, let's try using XGBoost in combination with GridSearch to boost our algorithms. We will also filter out outliers and break down at product levels and try implementing the same dataset using Facebook's Prophet, ARIMA and LSTM. 
+  - During next update, let's try to implement **XGBoost** in combination with GridSearch to boost our algorithms. We will also filter out outliers and break down at product levels.
+  - And let's try to implement the same dataset using **Facebook's Prophet, ARIMA and LSTM**. 
 
 Cheers :+1:
+- Suraj Yathinatti
