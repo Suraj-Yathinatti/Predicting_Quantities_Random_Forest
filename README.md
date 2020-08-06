@@ -27,8 +27,6 @@ Models we will use are as follows:
    - **Operating System:** Ubuntu 18.04 LTS
    - **Programming language:** Python3.6
    - **Python programming library version**
-       - Tensorflow: 1.14.0
-       - Keras: 2.3.1
        - Matplotlib: 3.2.2
        - Plotly: 4.8.2
        - Seaborn: 0.10.1
@@ -45,4 +43,6 @@ Models we will use are as follows:
   - During next update, let's try to implement **XGBoost** in combination with GridSearch to boost our algorithms. We will also filter out outliers and break down at product levels.
   - And let's try to implement the same dataset using **Facebook's Prophet, ARIMA and LSTM**. 
 
-Cheers, Suraj Yathinatti. :wink:
+Cheers, 
+
+Suraj Yathinatti. :wink:
