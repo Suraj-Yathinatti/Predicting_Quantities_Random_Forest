@@ -45,4 +45,4 @@ Models we will use are as follows:
   - During next update, let's try to implement **XGBoost** in combination with GridSearch to boost our algorithms. We will also filter out outliers and break down at product levels.
   - And let's try to implement the same dataset using **Facebook's Prophet, ARIMA and LSTM**. 
 
-Cheers :+1:
+Cheers, Suraj Yathinatti. :wink:
